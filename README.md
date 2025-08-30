@@ -34,7 +34,9 @@ See how the FinalRun agent handles real-world tasks with its `See, Think, Act` a
 
 ### Example 1: Basic Audio Recording
 **Task:** *Record an audio clip using Audio Recorder app and save it*  
-🎥 [Watch Video](recordings/AudioRecorderRecordAudio.mp4)
+
+[![Audio Recording Demo](https://img.youtube.com/vi/5_8AqMNNfeE/maxresdefault.jpg)](https://youtube.com/shorts/5_8AqMNNfeE)
+*Click to watch video ↑*
 
 **Steps Taken:**
 1. **Open Audio Recorder** - Navigates from home screen to the Audio Recorder app
@@ -49,7 +51,9 @@ See how the FinalRun agent handles real-world tasks with its `See, Think, Act` a
 
 ### Example 2: Audio Recording with Custom Filename  
 **Task:** *Record audio and save with name "presentation_fGwr.m4a"*  
-🎥 [Watch Video](recordings/AudioRecorderRecordAudioWithFileName.mp4)
+
+[![Audio Recording with Filename Demo](https://img.youtube.com/vi/yfeBs6kscWk/maxresdefault.jpg)](https://youtube.com/shorts/yfeBs6kscWk)
+*Click to watch video ↑*
 
 **Steps Taken:**
 1. **Open Audio Recorder** - Launches the app from home screen
@@ -64,7 +68,9 @@ See how the FinalRun agent handles real-world tasks with its `See, Think, Act` a
 
 ### Example 3: Interactive Maze Navigation
 **Task:** *Open task.html from Downloads in file manager, open with Chrome, navigate X to bottom-right using direction buttons*  
-🎥 [Watch Video](recordings/BrowserMaze.mp4)
+
+[![Maze Navigation Demo](https://img.youtube.com/vi/v2h56d610lo/maxresdefault.jpg)](https://youtube.com/shorts/v2h56d610lo)
+*Click to watch video ↑*
 
 **Steps Taken:**
 1. **Open Files App** - Navigates to file manager
@@ -82,7 +88,9 @@ See how the FinalRun agent handles real-world tasks with its `See, Think, Act` a
 
 ### Example 4: Web Drawing Application
 **Task:** *Open task.html in Chrome and create a drawing using three specific colors (teal, magenta, dark navy)*  
-🎥 [Watch Video](recordings/BrowserDraw.mp4)
+
+[![Drawing Application Demo](https://img.youtube.com/vi/aBSY6TkFlgM/maxresdefault.jpg)](https://youtube.com/shorts/aBSY6TkFlgM)
+*Click to watch video ↑*
 
 **Steps Taken:**
 1. **Open Files App** - Starts from home screen
