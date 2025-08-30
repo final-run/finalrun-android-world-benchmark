@@ -32,6 +32,8 @@ The agent doesn't treat all tasks the same. In its "Think" phase, it identifies 
 
 See how the FinalRun agent handles real-world tasks with its `See, Think, Act` approach. Each example is taken Android World task, includes a video demonstration and the detailed steps showing the agent's thought process.
 
+To see the benchmark for all the task. [Click here](https://finalrun.app/benchmark/)
+
 ### Example 1: Basic Audio Recording
 **Task:** *Record an audio clip using Audio Recorder app and save it*  
 
