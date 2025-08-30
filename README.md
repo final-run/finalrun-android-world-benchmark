@@ -1,3 +1,5 @@
+## Finalrun Agentic Approach
+
 FinalRun agent operates like a human expert, not a blind script. Its core philosophy is to be **goal-oriented and state-aware**, meaning its primary objective is to ensure the device is in the final state requested by the user, and it constantly checks the screen to see if that state has already been achieved.
 
 ![Approach Diagram](images/approach-diagram.png)
