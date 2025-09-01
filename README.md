@@ -1,5 +1,7 @@
 ## Finalrun Agentic Approach
 
+**🏆 [FinalRun achieves 76.7% success rate on Android World Benchmark](https://finalrun.app/benchmark/)** - Setting a new state-of-the-art across 116 diverse real-world Android tasks.
+
 FinalRun agent operates like a human expert, not a blind script. Its core philosophy is to be **goal-oriented and state-aware**, meaning its primary objective is to ensure the device is in the final state requested by the user, and it constantly checks the screen to see if that state has already been achieved.
 
 ![Approach Diagram](images/approach-diagram.png)
